@@ -1,0 +1,14 @@
+body,
+ol{
+    font-size: 26px; 
+}
+
+body,
+li{
+    font-size: 20px;
+}
+
+body{
+    margin-left: -30px;
+    font-family: italic;
+}
